@@ -1,0 +1,2 @@
+The number of entries with collision is 1    
+The number of unused entries is 4    
